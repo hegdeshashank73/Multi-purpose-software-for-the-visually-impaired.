@@ -3,7 +3,7 @@ Visually impaired individuals face significant challenges in navigating the worl
 
 
 Our solution has three parts:
-Obstacle detection with distance estimation and audio feedback
-Currency classification with audio feedback
-Automatic text to speech conversion using OCR technology
+Obstacle detection with distance estimation and audio feedback,
+Currency classification with audio feedback,
+Automatic text to speech conversion using OCR technology,
 For better results, we recommend to use a paid OCR such as AWS OCR or google OCR
